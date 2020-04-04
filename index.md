@@ -87,7 +87,9 @@
    <img src="彬技能.png">
   </p>
   <p> </p>
-  遊戲載點: <img src="ToBeContinued.png">
+  遊戲載點:
+   <p> </p>
+  <img src="ToBeContinued.png">
    <p> </p>
    介紹到此，謝謝觀賞!
     
