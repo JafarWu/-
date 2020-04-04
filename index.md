@@ -89,7 +89,7 @@
   <p> </p>
   遊戲載點:
    <p> </p>
-  <img src="ToBeContinued.png">
+<img src="ToBeContinued.png">  
    <p> </p>
    介紹到此，謝謝觀賞!
     
