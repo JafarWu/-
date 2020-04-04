@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>鉲鏑鈉排球</title>
+ 鉲鏑鈉排球
  <img src="鉲鏑鈉封面.png">
   </head>
 
