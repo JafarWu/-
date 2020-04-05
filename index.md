@@ -18,7 +18,7 @@
  <ul class="drop-down-menu">
   <a href="https://jafarwu.github.io/motivation/"> <li>動機</li> </a>
   <a href="https://jafarwu.github.io/content/"> <li>內容</li> </a>
-  <a href="https://https://jafarwu.github.io/nirvana/"> <li>必殺技</li> </a>
+  <a href="https://jafarwu.github.io/nirvana/"> <li>必殺技</li> </a>
   </ul>
 </h1>
 
