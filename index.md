@@ -16,7 +16,7 @@
  </h1>
  
   <p></p>
- <p style="color:DodgerBlue; font-size:100px;">目錄</p>
+ <p style="color:DodgerBlue; font-size:50px;">目錄</p>
  
  <h1> 
  <ul class="drop-down-menu">
