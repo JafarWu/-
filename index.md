@@ -11,7 +11,7 @@
 
 <body>
 <h1>
-  <a href="https://jafarwu.github.io/"  style="color:Snow;"> 鉲鏑鈉排球</a>
+  <a href="https://jafarwu.github.io/"  style="color:Snow;"  style="border:2px solid #c39; padding:1px;"> 鉲鏑鈉排球</a>
  <img src="鉲鏑鈉封面.png">
  </h1>
  
