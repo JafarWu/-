@@ -16,9 +16,9 @@
  </h1>
  
   <p>  </p>
- <h1>
-  <a style="color:"MediumOrchid;">目錄</a>
-  
+ <h1 style="color:"MediumOrchid;">目錄</h1>
+ 
+ <h1> 
  <ul class="drop-down-menu">
   <a href="https://jafarwu.github.io/motivation/"> <li style="color:Blue;">動機</li> </a>
   <a href="https://jafarwu.github.io/content/"> <li style="color:Blue;">內容</li> </a>
