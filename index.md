@@ -1,13 +1,14 @@
 <html>
 <head>
- 
+ <title>鉲鏑鈉排球</title>
+ <img src="鉲鏑鈉封面.png">
   
   </head>
 
 <body>
+  background: url("https://images.669pic.com/element_banner/80/6/82/99/5d27aceb8ac97637ea7d4a77a07ced83.jpg")
  <h1>
-  鉲鏑鈉排球
- <img src="鉲鏑鈉封面.png">
+  
  </h1>
   <p> </p>
  <h2>目錄</h2>
