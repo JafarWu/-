@@ -10,7 +10,7 @@
   }
 </style>
  <h1>
-  <a href="#footer">鉲鏑鈉排球</a>
+  <a href="https://jafarwu.github.io/">鉲鏑鈉排球</a>
 
  <img src="鉲鏑鈉封面.png">
  </h1>
