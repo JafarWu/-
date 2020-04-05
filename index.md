@@ -10,16 +10,16 @@
   }
 </style>
  <h1>
- 鉲鏑鈉排球
-
+  <a href="https://jafarwu.github.io/"> 鉲鏑鈉排球</a>
  <img src="鉲鏑鈉封面.png">
  </h1>
+ 
   <p> </p>
  <h1>
  目錄
   
  <ul>
-    <a href="https://jafarwu.github.io/motivation"> <li>動機</li></a>
+    <li>動機</li>
     <li>內容</li>
     <li>必殺技</li>
   </ul>
