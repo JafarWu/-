@@ -1,15 +1,15 @@
 <html>
 <head>
  <title>鉲鏑鈉排球</title>
+  <style>
+  body {
+    background: url("http://www.ghost64.com/qqtupian/zixunImg/local/2019/02/02/15490669795266.jpeg")
+  }
+</style>
  </head>
 
 <body>
- <style>
-  body {
-    background: url("")
-  }
-</style>
- <h1>
+<h1>
   <a href="https://jafarwu.github.io/"> 鉲鏑鈉排球</a>
  <img src="鉲鏑鈉封面.png">
  </h1>
