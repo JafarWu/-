@@ -10,8 +10,8 @@
  </head>
 
 <body>
-<h1 style="color:Snow;">
-  <a href="https://jafarwu.github.io/"> 鉲鏑鈉排球</a>
+<h1>
+  <a href="https://jafarwu.github.io/"  style="color:Snow;"> 鉲鏑鈉排球</a>
  <img src="鉲鏑鈉封面.png">
  </h1>
  
