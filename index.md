@@ -1,8 +1,15 @@
 <html>
 <head>
  <title>鉲鏑鈉排球</title>
-  <style>
-</style>
+  
+   body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:right bottom;
+    background-image: url(背景星星.png);
+    background-color:;
+}
+
  </head>
 
 <body>
