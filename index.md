@@ -6,7 +6,7 @@
 <body>
  <style>
   body {
-    background: url("https://images.669pic.com/element_banner/80/6/82/99/5d27aceb8ac97637ea7d4a77a07ced83.jpg")
+    background: url("鉲鏑鈉封面.png")
   }
 </style>
  <h1>
