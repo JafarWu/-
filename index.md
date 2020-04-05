@@ -3,7 +3,7 @@
  <title>鉲鏑鈉排球</title>
   <style>
   body {
-    background: url("http://www.ghost64.com/qqtupian/zixunImg/local/2019/02/02/15490669795266.jpeg")
+    background: url("https://previews.123rf.com/images/genevskayamariya/genevskayamariya1812/genevskayamariya181200007/127265226-beautiful-abstract-template-with-blue-set-gentle-winter-backgrounds-on-light-background-vector-abstr.jpg")
   }
 </style>
  </head>
