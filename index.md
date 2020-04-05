@@ -11,7 +11,7 @@
 
 <body>
 <h1>
-  <a href="https://jafarwu.github.io/"  style="color:Snow;"  style="border:2px solid #c39; padding:1px;"> 鉲鏑鈉排球</a>
+  <a href="https://jafarwu.github.io/"  style="color:Blue;"> 鉲鏑鈉排球</a>
  <img src="鉲鏑鈉封面.png">
  </h1>
  
@@ -20,9 +20,9 @@
  目錄
   
  <ul class="drop-down-menu">
-  <a href="https://jafarwu.github.io/motivation/"> <li style="color:Snow;">動機</li> </a>
-  <a href="https://jafarwu.github.io/content/"> <li style="color:Snow;">內容</li> </a>
-  <a href="https://jafarwu.github.io/nirvana/"> <li style="color:Snow;">必殺技</li> </a>
+  <a href="https://jafarwu.github.io/motivation/"> <li style="color:Blue;">動機</li> </a>
+  <a href="https://jafarwu.github.io/content/"> <li style="color:Blue;">內容</li> </a>
+  <a href="https://jafarwu.github.io/nirvana/"> <li style="color:Blue;">必殺技</li> </a>
   </ul>
 </h1>
 
