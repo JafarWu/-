@@ -2,9 +2,6 @@
 <head>
  <title>鉲鏑鈉排球</title>
   <style>
-  body {
-    background: url("背景星星.png")
-  }
 </style>
  </head>
 
