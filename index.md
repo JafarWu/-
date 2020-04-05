@@ -19,7 +19,7 @@
  目錄
   
  <ul>
-     <a href="https://jafarwu.github.io/motivation"> <li>動機</li> </a>
+     <a href="JafarWu/jafarwu.github.io/motivation"> <li>動機</li> </a>
     <li>內容</li>
     <li>必殺技</li>
   </ul>
