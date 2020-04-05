@@ -27,7 +27,6 @@
    <p> </p>
 <img src="ToBeContinued.png">  
    <p> </p>
-   介紹到此，謝謝觀賞!
     
 </body>
 </html> 
